@@ -1,6 +1,3 @@
-NAMA : Ananda friezy Eka Cahya
-NIM : 312410151
-
 # Praktikum 12 – Autentikasi dan Session (PHP + XAMPP)
 
 ## Identitas
